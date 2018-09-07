@@ -13,6 +13,13 @@ header navbar {
     border-radius: 0;
 }
 
+.navbarBrand {
+    display: block;
+    text-align: center; 
+    font-size: 18px;
+    line-height: 20px;
+}
+
 .hero {
     background-image: url(../img/arkbarn.jpg);
     margin-top: -45px;
